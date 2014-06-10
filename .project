@@ -3,6 +3,7 @@
 	<name>IVERA_client</name>
 	<comment></comment>
 	<projects>
+		<project>IVERA_client</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
